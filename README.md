@@ -31,17 +31,13 @@ cd todo-mui-app
 2. Install Dependencies
 
 ```bash
-npm install
-# or
-yarn install
+npm install --legacy-peer-deps
 ```
 
 3. Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 ## Project Structure
